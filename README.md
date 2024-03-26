@@ -12,10 +12,9 @@ I'm a growing electronic technician and programmer, who likes to have fun and le
 - 🌱 I’m currently perfecting myself in python in the areas of Data science, Network programming, Web project...
 - 👯 I’m open to collaborate on backend Projects of whatever...
 ##
- I'm a graduate of a technical college in Cordoba Argentina, I have internships in the telecommunications area, having experience in structured cabling and its regulations, also in industrial electronics, with the realization of a project for a science fair based on the programming of a PLC 
--  With my groups of co-workers we executed a solution for neonatal hypoxic-ischemic encephalopathy in the National Olympiad in Argentina as our first project.
-
-
+ I'm a graduate of a technical college in Cordoba Argentina and programmer with extensive programming experience in different sectors. I have experience in assembly programming microcontrollers for motor control in robotics, then also experience in the industrial sector programming PLCs for industrial automation, also in C where I learned logic of programming, carrying out projects and implementing algorithms such as bubble sort, merge sort and data structures such as linked lists, binary tree, stack, queue. 
+Then I specialized in python, OOP, where I gained experience in data management, from json, csv, relational databases such as Mysql, postgres and non-relational databases such as mongoDB, carrying out a project (demo) applying the principles of telecommunications, making a chat_server with sockets, also making backend of web pages with flask, and frontend part, taking take into account html5, css3, javascript, frameworks such as bootstrap, jquery and React. In addition, I have completed various specialized courses (cs50 Harvard Online) in programming in C, Python, SQL, JavaScript, carrying out different projects, which can be very useful in the performance of my duties. 
+I have no professional experience, but I am a person who likes to learn and continue growing.
 ## Languages
 ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
