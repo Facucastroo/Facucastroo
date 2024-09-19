@@ -12,7 +12,7 @@ I'm a growing electronic technician and programmer, who likes to have fun and le
 - 🌱 I’m currently perfecting myself in python in the areas of Data science, Network programming, Web project...
 - 👯 I’m open to collaborate on backend Projects of whatever...
 ##
-open to listen and learn
+OPEN TO LIST AND LEARN.
 ## Languages
 ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
